@@ -11,3 +11,21 @@ wheels/
 
 #Pi Ai Agent
 .env
+
+# Secrets
+
+credentials.json
+service_account.json
+token.json
+tokens/
+.tokens/
+
+# Local SDK caches (may contain auth)
+.cache/
+.config/
+.gcloud/
+
+# Editors/OS
+.DS_Store
+.vscode/
+.idea/
