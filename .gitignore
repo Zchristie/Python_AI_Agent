@@ -13,7 +13,11 @@ wheels/
 .env
 
 # Secrets
+<<<<<<< HEAD
 
+=======
+.env
+>>>>>>> b2dacd6f630a01bb3843356708adfd315f1e0665
 credentials.json
 service_account.json
 token.json
